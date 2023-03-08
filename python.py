@@ -6,5 +6,5 @@ def fg(a,b):
 fg(2,6)
 
 
-fg(12,40)
+fg(12,40) hjrtyhj
 
